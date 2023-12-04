@@ -10,7 +10,8 @@
 ```[read more] paragraph that you want to hide [/read]```
 ### For titles such as ALBUM INTRODUCTION and SONG INTRODUCTIONS, it should be enclosed with <h3></h3> tag 
 ```<h3>SONG INTRODUCTIONS</h3>```
-### Italicizing a paragraph should be enclosed in <em></em> tag
+### Italicizing a paragraph
+It should be enclosed in ```<em></em>``` tag
 ```<em>Lyrics by IU</em>```
 ### Link format for the “See Lyrics”
 It must be enclosed with ``` <strong></strong>``` tag to make it bold and ```<a href="example-link.com">Text</a>``` tag to create a clickable link. **DO NOT** include the domain of the site (https://staging-ed43-iutsxxx.xxx.com/ or https://iutxx.com/): <br />
