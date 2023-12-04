@@ -13,3 +13,6 @@ It must be enclosed with ``` <strong></strong>``` tag to make it bold and ```<a 
 #### Correct format:
 ```<strong><a href="/lyrics-iu-아이유-라일락-lilac/" class="lyrics-title-label" style="text-decoration: underline;">See lyrics</a></strong>```
 
+## EXAMPLE CODE & PAGE:
+- PAGE - [Lilac Album](https://staging-ed43-iutsccom.wpcomstaging.com/lilac/)
+- CODE - [Lilac Album Code Format](https://github.com/sn-tin/IUTSC/blob/main/iutsc-format](https://github.com/sn-tin/IUTSC/blob/main/iutsc-format)https://github.com/sn-tin/IUTSC/blob/main/iutsc-format)
