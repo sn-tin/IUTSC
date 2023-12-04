@@ -9,7 +9,7 @@
 ### Italicizing a paragraph should be enclosed in <em></em> tag
 ```<em>Lyrics by IU</em>```
 ### Link format for the “See Lyrics”
-It must be enclosed with <strong></strong> tag to make it bold and <a href="example-link.com">Text</a> tag to create a clickable the link. DO NOT include the domain of the site (https://staging-ed43-iutsxxx.xxx.com/ or https://iutxx.com/): 
+It must be enclosed with ``` <strong></strong>``` tag to make it bold and ```<a href="example-link.com">Text</a>``` tag to create a clickable link. DO NOT include the domain of the site (https://staging-ed43-iutsxxx.xxx.com/ or https://iutxx.com/): 
 #### Correct format:
 ```<strong><a href="/lyrics-iu-아이유-라일락-lilac/" class="lyrics-title-label" style="text-decoration: underline;">See lyrics</a></strong>```
 
