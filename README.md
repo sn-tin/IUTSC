@@ -27,7 +27,7 @@ I’ll keep it in a secret orgel box in the corner of my heart<br></p>``
 ## Lyrics Show All
 ### Example Code & Reference Page
 - PAGE - [Lilac Album](https://staging-ed43-iutsccom.wpcomstaging.com/lilac/)
-- CODE - [Lilac Album Code Format](https://github.com/sn-tin/IUTSC/blob/main/iutsc-format](https://github.com/sn-tin/IUTSC/blob/main/iutsc-format)https://github.com/sn-tin/IUTSC/blob/main/iutsc-format)
+- CODE - [Lilac Album Code Format](https://github.com/sn-tin/IUTSC/blob/main/iutsc-format)
 
 ## Lyrics Single Page
 **Example Code & Reference Page**
