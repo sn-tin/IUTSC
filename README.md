@@ -19,14 +19,13 @@ It must be enclosed with ``` <strong></strong>``` tag to make it bold and ```<a 
 ### NOTES FOR SINGLE LYRICS PAGE ONLY:
 ### Each block of lyrics must be enclosed with ```<p></p>``` tag
 Don't forget the ```<br>``` tag to add a line break. Otherwise, it will appear as a whole paragraph.
-**Correct Format**
-```<p>My eyes sting from the flying pollen (ouch)<br>
+**Correct Format:**
+``<p>My eyes sting from the flying pollen (ouch)<br>
 Though tears swell in my eyes, I’ll endure it<br>
-I’ll keep it in a secret orgel box in the corner of my heart<br>```
-
+I’ll keep it in a secret orgel box in the corner of my heart<br></p>``
 
 ## Lyrics Show All
-**Example Code & Reference Page**
+### Example Code & Reference Page
 - PAGE - [Lilac Album](https://staging-ed43-iutsccom.wpcomstaging.com/lilac/)
 - CODE - [Lilac Album Code Format](https://github.com/sn-tin/IUTSC/blob/main/iutsc-format](https://github.com/sn-tin/IUTSC/blob/main/iutsc-format)https://github.com/sn-tin/IUTSC/blob/main/iutsc-format)
 
@@ -34,6 +33,5 @@ I’ll keep it in a secret orgel box in the corner of my heart<br>```
 **Example Code & Reference Page**
 - PAGE - [Lilac (Title Song) Single Page Lyrics](https://staging-ed43-iutsccom.wpcomstaging.com/lyrics-iu-%ec%95%84%ec%9d%b4%ec%9c%a0-%eb%9d%bc%ec%9d%bc%eb%9d%bd-lilac/)
 - CODE - https://github.com/sn-tin/IUTSC/blob/main/iutsc-single-page-format
-
 
 
