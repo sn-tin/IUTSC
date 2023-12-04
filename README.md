@@ -16,7 +16,12 @@
 It must be enclosed with ``` <strong></strong>``` tag to make it bold and ```<a href="example-link.com">Text</a>``` tag to create a clickable link. **DO NOT** include the domain of the site (https://staging-ed43-iutsxxx.xxx.com/ or https://iutxx.com/): <br />
 **Correct format:**
 ```<strong><a href="/lyrics-iu-아이유-라일락-lilac/" class="lyrics-title-label" style="text-decoration: underline;">See lyrics</a></strong>```
-### NOTES FOR SINGLE LYRICS PAGE ONLY:
+### NOTE/S FOR SHOW ALL LYRICS POST ONLY:
+### Creating a purple TITLE text beside the title song
+```<span class="lyrics-title-label">```
+For example:
+```<strong>01 라일락 (LILAC) <span class="lyrics-title-label">TITLE</span></strong><br>```
+### NOTE/S FOR SINGLE LYRICS PAGE ONLY:
 ### Each block of lyrics must be enclosed with ```<p></p>``` tag
 Don't forget the ```<br>``` tag to add a line break. Otherwise, it will appear as a whole paragraph. <br />
 **Correct Format:**
