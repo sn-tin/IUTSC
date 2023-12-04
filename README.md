@@ -18,7 +18,7 @@ It must be enclosed with ``` <strong></strong>``` tag to make it bold and ```<a 
 ```<strong><a href="/lyrics-iu-아이유-라일락-lilac/" class="lyrics-title-label" style="text-decoration: underline;">See lyrics</a></strong>```
 ### NOTE/S FOR SHOW ALL LYRICS POST ONLY:
 ### Creating a purple TITLE text beside the title song
-```<span class="lyrics-title-label">```
+```<span class="lyrics-title-label">``` <br />
 For example:
 ```<strong>01 라일락 (LILAC) <span class="lyrics-title-label">TITLE</span></strong><br>```
 ### NOTE/S FOR SINGLE LYRICS PAGE ONLY:
